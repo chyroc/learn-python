@@ -1,6 +1,6 @@
-## 数据类型和变量
+### 数据类型和变量
 
-### python 有哪些数据类型
+#### python 有哪些数据类型
 
 <details>
 
@@ -11,14 +11,14 @@ str # 字符串
 float # 浮点数
 list # 列表
 set # 集合
-map # 字典
+dict # 字典
 tuple # 元组
 None # 空
 ```
 
 </details>
 
-### 怎么创建一个变量
+#### 怎么创建一个变量
 
 <details>
 
@@ -36,7 +36,7 @@ i = None
 
 </details>
 
-### 打印一个变量到屏幕上
+#### 打印一个变量到屏幕上
 
 <details>
 
@@ -45,3 +45,5 @@ print('hello world')
 ```
 
 </details>
+
+#### 哪些类型是可变的，哪些是不可变的
